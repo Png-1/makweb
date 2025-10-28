@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+}
+
+.car{
+    color: blue;
+    border: 10px double bisque;
+}
