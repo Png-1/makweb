@@ -1,0 +1,27 @@
+
+body {
+    font-family: Times New Roman;
+    background-color: rgb(244, 255, 122);
+}
+header{
+    
+    border: 20px dotted rgb(131, 7, 7);
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.pasta{
+    color: wheat;
+    background-color: rgb(124, 118, 110);
+    padding: 
+    margin-left: 300px;
+    margin-right: 300px;
+}
+    
+
+.facts{
+    color: blueviolet;
+    border: 10px solid rgb(68, 207, 29);
+}
